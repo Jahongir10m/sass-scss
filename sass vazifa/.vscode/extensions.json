@@ -1,0 +1,14 @@
+
+{
+    "liveSassCompile.settings.formats": [
+    {
+    "format": "expanded",
+    "extensionName": "main.css",
+    "savePath": "/css",
+    "savePathReplacementPairs": null
+    }
+],
+"recommendations": [
+    "ritwickdey.live-sass"
+]
+}
